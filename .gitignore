@@ -18,3 +18,4 @@ zptlint.log
 report
 include
 lib
+.DS_Store
